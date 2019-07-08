@@ -1,8 +1,4 @@
-Dear co-members,
-
 To run this program, please import the SQL database to a wamp server.
-
-More clarification?
 
 1. Run WAMP Server. If you don't have such program then install.
 
