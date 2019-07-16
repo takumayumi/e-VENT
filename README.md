@@ -1,6 +1,8 @@
 # e-VENT
 
-e-VENT is a simple Java application and was developed to help events specialists for event management and/or event planning. This is our final project in Programming Applications subject in Saint Louis University, Baguio City.
+e-VENT is a simple Java application and was developed to help events specialists for event management and/or event planning.
+
+This is my team's final project in Programming Applications subject in Saint Louis University, Baguio City.
 
 ## Installation
 
