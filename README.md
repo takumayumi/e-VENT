@@ -4,7 +4,7 @@ e-VENT is a simple Java application and was developed to help events specialists
 
 This is my team's final project in Programming Applications subject in Saint Louis University, Baguio City.
 
-## Installation
+## Getting Started
 
 To run this program, please import the SQL database to a wamp server.
 
